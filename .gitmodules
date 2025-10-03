@@ -1,3 +1,6 @@
 [submodule "fleX"]
 	path = fleX
 	url = https://github.com/sawsedge/fleX
+[submodule "city"]
+	path = city
+	url = https://github.com/linuxthemes/city
