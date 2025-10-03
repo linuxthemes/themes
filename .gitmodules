@@ -4,3 +4,6 @@
 [submodule "city"]
 	path = city
 	url = https://github.com/linuxthemes/city
+[submodule "border"]
+	path = border
+	url = https://github.com/linuxthemes/border
